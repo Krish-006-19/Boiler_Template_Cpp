@@ -8,6 +8,8 @@ using vll = vector<ll>;
 #define forp(i,n) for(ll i=1;i<n;i++)
 #define fornp(i,n) for(ll i=1;i<n-1;i++)
 #define read(a) for(auto &x:a) cin>>x
+#define asc_sort(a) sort(a.begin(), a.end())
+#define desc_sort(a) sort(a.rbegin(), a.rend())
 void solve();
 void fastio() {
 	ios_base::sync_with_stdio(false);
