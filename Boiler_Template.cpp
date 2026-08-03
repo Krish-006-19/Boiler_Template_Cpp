@@ -11,6 +11,7 @@ using vll = vector<ll>;
 #define asc_sort(a) sort(a.begin(), a.end())
 #define desc_sort(a) sort(a.rbegin(), a.rend())
 void solve();
+int helper();
 void fastio() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
