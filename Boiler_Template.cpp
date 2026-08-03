@@ -22,6 +22,9 @@ int main() {
 
 	while(t--) solve();
 }
+int helper() {
+    
+}
 
 void solve() {
     
